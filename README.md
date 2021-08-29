@@ -31,4 +31,4 @@ software methods and tools refer herehttp://www.methodsandtools.com/archive/arch
 
 
 ### live site 
-view [live]( https://lanarokip.github.io/Anitas_kitchen/)
+view [live]( https://kimutaiamos.github.io/portfolio-landing-page/)
