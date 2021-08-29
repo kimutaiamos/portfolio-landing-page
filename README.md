@@ -1,7 +1,7 @@
 # portfolio-landing-page
 the project is about my portfolio,projects i have done 
 # Author
-Amos kimutaion 
+Amos kimutai
 ## Description
 A website that advertises on my porfolio as a full stack web developer
 ### prerequisites
@@ -12,7 +12,7 @@ use the command below to install
 ### setup
 so as to access the project on ur local files, you have to clone it using the steps below
 1. open the terminal. press CTRL+ALT+T
-2. use this comand to clone 's git clone https://github.com/lanarokip/Anitas_kitchen.git
+2. use this comand to clone 's git clone https://github.com/kimutaiamos/portfolio-landing-page.git
 3. this will clone the repository  into your local browser
 ### Tech used
 1. HTMLs
